@@ -69,8 +69,9 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 ### 📌 Most Active & Featured Repositories
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=StartHubX-client&theme=blue_navy&hide_border=true" />
-  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=DocAppoint-client&theme=blue_navy&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=StartHubX-client&theme=blue_navy&hide_border=true&description=Frontend+client+for+StartHubX+platform" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=DocAppoint-client&theme=blue_navy&hide_border=true&description=Full-stack+doctor+appointment+booking+system" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=assignment-8&theme=blue_navy&hide_border=true&description=Interactive+React+%26+Tailwind+web+application" />
 </p>
 
 ---
@@ -80,7 +81,7 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ---
 
-### 🐍 Contribution Snake Game
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
