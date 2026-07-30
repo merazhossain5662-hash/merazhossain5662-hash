@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03256c,100:007acc&height=220&section=header&text=Meraz%20Hossain&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+</p>
+
 # 👋 Hi, I'm Meraz Hossain
 
 <p align="left">
@@ -29,6 +33,7 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 ### 💻 Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
