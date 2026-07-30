@@ -15,10 +15,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=merazhossain5662-hash&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
-
 ---
-[![](https://komarev.com/ghpvc/?username=merazhossain5662-hash&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=merazhossain5662-hash&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
