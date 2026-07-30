@@ -65,7 +65,6 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ---
 
-### 🐍 Contribution Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
