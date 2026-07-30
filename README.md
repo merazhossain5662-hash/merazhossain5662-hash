@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&width=100%25&lines=MERN+Stack+Developer;Full+Stack+Software+Engineer;Next.js+%26+React+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&width=500&lines=MERN+Stack+Developer;Full+Stack+Software+Engineer;Next.js+%26+React+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,20 +57,20 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=merazhossain5662-hash&show_icons=true&theme=transparent&bg_color=00000000&title_color=38b2ac&text_color=e2e8f0&icon_color=007acc&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.shion.dev/api?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" width="100%" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=merazhossain5662-hash&theme=transparent&background=00000000&border=00000000&stroke=00000000&ring=38b2ac&fire=007acc&currStreakNum=ffffff&sideNums=e2e8f0&sideTitle=38b2ac&dates=64748b&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=merazhossain5662-hash&theme=blue_navy&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=merazhossain5662-hash&theme=transparent&bg_color=00000000&title_color=38b2ac&text_color=e2e8f0&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="100%" />
 </p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
-  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </p>
 
 ---
@@ -85,6 +85,4 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=merazhossain5662-hash&color=007acc&style=flat-square" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=merazhossain5662-hash&color=03256c)
