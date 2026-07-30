@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Meraz Hossain
 
-### MERN / Full Stack Developer & UI Specialist
+<p align="left">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&width=500&lines=MERN+Stack+Developer;Full+Stack+Software+Engineer;Next.js+%26+React+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</p>
 
 I am a passionate Full Stack Software Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js) and modern web applications built with **Next.js** and **Tailwind CSS**. I build scalable backends, design responsive interfaces, and integrate third-party services like **Stripe** and **Nodemailer**.
 
@@ -34,6 +38,16 @@ I am a passionate Full Stack Software Developer specializing in the **MERN Stack
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-007ACC?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🐍 Contribution Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
