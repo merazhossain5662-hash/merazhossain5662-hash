@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I am a passionate Full Stack Software Developer specializing in the **MERN Stack** (MongoDB, Express, React, Node.js) and modern web applications built with **Next.js** and **Tailwind CSS**. I build scalable backends, design responsive interfaces, and integrate third-party services like **Stripe** and **Nodemailer**.
+I am a passionate Full Stack / MERN Stack Software Developer specializing in building modern web applications with **MongoDB**, **Express**, **React**, **Node.js**, **Next.js**, and **Tailwind CSS**. I build scalable backends, responsive UIs, and integrate third-party services like **Stripe** and **Nodemailer**.
 
 ---
 
@@ -43,11 +43,7 @@ I am a passionate Full Stack Software Developer specializing in the **MERN Stack
 
 ### 🐍 Contribution Snake Game
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake Animation](https://github.com/merazhossain5662-hash/merazhossain5662-hash/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
