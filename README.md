@@ -56,13 +56,9 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ### 📊 GitHub Stats:
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="Meraz's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazhossain5662-hash&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=merazhossain5662-hash&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=merazhossain5662-hash&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=merazhossain5662-hash&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
