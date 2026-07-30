@@ -41,12 +41,6 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ---
 
-### 🐍 Contribution Snake Game
-
-![Snake Animation](https://github.com/merazhossain5662-hash/merazhossain5662-hash/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/meraz-hossain-ph)
@@ -66,4 +60,14 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=merazhossain5662-hash&color=007acc)
+### 🐍 Contribution Snake Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=merazhossain5662-hash&color=03256c)
