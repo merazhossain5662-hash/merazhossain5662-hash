@@ -56,15 +56,31 @@ I am a passionate Full Stack / MERN Stack Software Developer specializing in bui
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=merazhossain5662-hash&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="Meraz's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merazhossain5662-hash&theme=blue_navy&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=merazhossain5662-hash&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### 📌 Most Active & Featured Repositories
+
+<p align="left">
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=StartHubX-client&theme=blue_navy&hide_border=true" />
+  <img src="https://github-readme-stats.shion.dev/api/pin/?username=merazhossain5662-hash&repo=DocAppoint-client&theme=blue_navy&hide_border=true" />
+</p>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
+### 🐍 Contribution Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/merazhossain5662-hash/merazhossain5662-hash/output/github-contribution-grid-snake-dark.svg">
